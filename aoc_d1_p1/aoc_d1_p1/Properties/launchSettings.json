@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "aoc_d1_p1": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\jacob\\source\\repos\\aoc_d1_p1\\aoc_d1_p1\\input.txt"
-    }
-  }
-}

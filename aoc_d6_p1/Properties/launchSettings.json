@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "aoc_d6_p1": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\Input.txt"
+    }
+  }
+}
